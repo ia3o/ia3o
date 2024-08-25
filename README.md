@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ia3o
+- 👀 I’m interested in finance, space, and scientific frontiers
+- 🌱 I’m currently learning swift and how to start a business
+- 💞️ I’m looking to collaborate on app development
